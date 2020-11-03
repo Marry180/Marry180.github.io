@@ -23,7 +23,7 @@
         </header>
         <br>
         <center>
-            <img class="image" src="https://sun9-76.userapi.com/c857520/v857520263/cdf3a/1jJ7EARCrZA.jpg" alt="Фотография студента" style="width:250px; height: 200px;">
+            <img class="image" src="https://sun9-71.userapi.com/impf/Z0MW7Mn2sPBhIIjKui0EnQ-HJzm5cNce9dIAmw/th5d8cmcQv4.jpg?size=1187x1186&quality=96&proxy=1&sign=a46d7761aaf5f0c1a67f51105e6e41a4" alt="Фотография студента" style="width:250px; height: 200px;">
         </center>
 
         <ul>
