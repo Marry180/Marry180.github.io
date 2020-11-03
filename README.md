@@ -1,15 +1,14 @@
 <!DOCTYPE html>
-
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>
-        Сайт о студенте
-    </title>
+         <title>
+            Сайт о студенте   
+           </title>
     <link rel="stylesheet" type="text/css" href="style.css">
     <style>
-  body { background: url(https://xn--80aahvkuapc1be.xn--p1ai/wp-content/uploads/fon-dlya-sajta-besshovnyj-svetlyj_17.jpg); }
-</style>
+     body { background: url(https://xn--80aahvkuapc1be.xn--p1ai/wp-content/uploads/fon-dlya-sajta-besshovnyj-svetlyj_17.jpg); }
+    </style>
 </head>
 
 
@@ -28,7 +27,7 @@
         <center>
             <img class="image" src="https://sun9-71.userapi.com/impf/Z0MW7Mn2sPBhIIjKui0EnQ-HJzm5cNce9dIAmw/th5d8cmcQv4.jpg?size=1187x1186&quality=96&proxy=1&sign=a46d7761aaf5f0c1a67f51105e6e41a4" alt="Фотография студента" style="width:250px; height: 200px;">
         </center>
-
+         </br>
         <ul>
             Электронная почта студента: <a href="mailto:79825834315@yandex.ru">79825834315@yandex.ru</a><br>
             Ссылка на сайт вуза студента: <a href="https://nvsu.ru/">Нижневартовский государственный университет</a>
@@ -42,6 +41,7 @@
         <article>
             Федеральное государственное бюджетное образовательное учреждение высшего образования «Нижневартовский государственный университет»
         </article>
+        
         <br>
         <br>
         <div class="table-info">
