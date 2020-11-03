@@ -25,8 +25,9 @@
         </header>
         <br>
         <center>
-            <img class="image" src="https://sun9-71.userapi.com/impf/Z0MW7Mn2sPBhIIjKui0EnQ-HJzm5cNce9dIAmw/th5d8cmcQv4.jpg?size=1187x1186&quality=96&proxy=1&sign=a46d7761aaf5f0c1a67f51105e6e41a4" alt="Фотография студента" style="width:250px; height: 200px;">
+            <img class="image" src="https://sun9-71.userapi.com/impf/Z0MW7Mn2sPBhIIjKui0EnQ-HJzm5cNce9dIAmw/th5d8cmcQv4.jpg?size=1187x1186&quality=96&proxy=1&sign=a46d7761aaf5f0c1a67f51105e6e41a4" alt="Фотография студента" style="width:250px; height: 250px;">
         </center>
+        </br>
         <ul>
             Электронная почта студента: <a href="mailto:79825834315@yandex.ru">79825834315@yandex.ru</a><br>
             Ссылка на сайт вуза студента: <a href="https://nvsu.ru/">Нижневартовский государственный университет</a>
