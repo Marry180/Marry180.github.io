@@ -8,7 +8,7 @@
     </title>
     <link rel="stylesheet" type="text/css" href="style.css">
     <style>
-  body { background: url(https://sun9-22.userapi.com/impf/vuMty9KdrfBJQFKbKeC61zMwR8wh6GrIu2gdFw/lBiXhg6_pYI.jpg?size=467x340&quality=96&proxy=1&sign=2938a189ab25e091ace036e19c6cc89d); }
+  body { background: url(https://xn--80aahvkuapc1be.xn--p1ai/wp-content/uploads/fon-dlya-sajta-besshovnyj-svetlyj_17.jpg); }
 </style>
 </head>
 
