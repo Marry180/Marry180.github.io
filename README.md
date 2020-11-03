@@ -201,5 +201,4 @@
                 <br>
                 <input type="reset" value="Очистить"> <input type="submit" value="Отправить">
             </form>
-        </div>
-  
+     
