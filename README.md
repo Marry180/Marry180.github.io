@@ -1,4 +1,5 @@
 <!DOCTYPE html>
+
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -30,7 +31,7 @@
 
         <ul>
             Электронная почта студента: <a href="mailto:79825834315@yandex.ru">79825834315@yandex.ru</a><br>
-            Ссылка на сайт вуза студента: <a href="https://nvsu.ru/">НВГУ</a>
+            Ссылка на сайт вуза студента: <a href="https://nvsu.ru/">Нижневартовский государственный университет</a>
         </ul>
         <br>
         <br>
